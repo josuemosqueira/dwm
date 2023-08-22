@@ -19,5 +19,5 @@ Añade dwm a tu gestor de sesiones favorito y crea el archivo .desktop correspon
 
 Capturas de pantalla
 --------------------
-![screenold](https://files.catbox.moe/06dobj.png)
+![screenold](https://github.com/josuemosqueira/dwm/blob/main/2023-07-21-201002_1920x1080_scrot.png)
 ![screee](https://files.catbox.moe/06dobj.png)
