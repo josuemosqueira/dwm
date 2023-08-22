@@ -21,9 +21,15 @@ Capturas de pantalla
 --------------------
 Algunos ejemplos de cómo se pueden manipular las ventanas en dwm.
 
-> Visualización regular en modo mosaico 
+>
+> Visualización regular en modo mosaico
+>  
 > ![screee](https://files.catbox.moe/06dobj.png)
->Pantalla limpia
+>
+> Pantalla limpia
+> 
 > ![deep](https://files.catbox.moe/2qs31t.png)
+>
 > Ventanas en modo flotante
+>
 > ![deeeep](https://files.catbox.moe/bealbc.png)
