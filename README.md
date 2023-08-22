@@ -19,6 +19,10 @@ Añade dwm a tu gestor de sesiones favorito y crea el archivo .desktop correspon
 
 Capturas de pantalla
 --------------------
-![screenold](https://github.com/josuemosqueira/dwm/blob/main/2023-07-21-201002_1920x1080_scrot.png)
+Algunos ejemplos de cómo se pueden manipular las ventanas en dwm
+Visualización regular en modo mosaico 
 ![screee](https://files.catbox.moe/06dobj.png)
+Pantalla limpia
 ![deep](https://files.catbox.moe/2qs31t.png)
+Ventanas en modo flotante
+![deeeep](https://files.catbox.moe/bealbc.png)
