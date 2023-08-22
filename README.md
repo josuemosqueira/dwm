@@ -32,4 +32,4 @@ Algunos ejemplos de cómo se pueden manipular las ventanas en dwm.
 >
 > Ventanas en modo flotante
 >
-> ![deeeep]()
+> ![deeeep](https://github.com/josuemosqueira/dwm/blob/main/2023-08-21-200448_1920x1080_scrot.png)
