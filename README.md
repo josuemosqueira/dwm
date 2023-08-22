@@ -21,3 +21,4 @@ Capturas de pantalla
 --------------------
 ![screenold](https://github.com/josuemosqueira/dwm/blob/main/2023-07-21-201002_1920x1080_scrot.png)
 ![screee](https://files.catbox.moe/06dobj.png)
+![deep](https://files.catbox.moe/2qs31t.png)
