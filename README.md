@@ -32,4 +32,4 @@ Algunos ejemplos de cómo se pueden manipular las ventanas en dwm.
 >
 > Ventanas en modo flotante
 >
-> ![deeeep](https://files.catbox.moe/bealbc.png)
+> ![deeeep]()
